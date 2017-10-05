@@ -15,24 +15,24 @@ Descargar los datos de entrenamiento de la red en: https://www.kaggle.com/c/dogs
 <br/>
 Crear la siguiente estructura de carpetas una vez descargados los datos:<br/>
 data/<br/>
-    train/<br/>
-        dogs/<br/>
-            dog001.jpg<br/>
-            dog002.jpg<br/>
-            ...<br/>
-        cats/<br/>
-            cat001.jpg<br/>
-            cat002.jpg<br/>
-            ...<br/>
-    validation/<br/>
-        dogs/<br/>
-            dog001.jpg<br/>
-            dog002.jpg<br/>
-            ...<br/>
-        cats/<br/>
-            cat001.jpg<br/>
-            cat002.jpg<br/>
-            ...<br/>
-            <br/>
+.......train/<br/>
+........dogs/<br/>
+............dog001.jpg<br/>
+............dog002.jpg<br/>
+...............<br/>
+........cats/<br/>
+............cat001.jpg<br/>
+............cat002.jpg<br/>
+...............<br/>
+....validation/<br/>
+........dogs/<br/>
+............dog001.jpg<br/>
+............dog002.jpg<br/>
+...............<br/>
+........cats/<br/>
+............cat001.jpg<br/>
+............cat002.jpg<br/>
+...............<br/>
+............<br/>
 # Para correr la red:<sbr/>
 python red-neuronal.py<br/>
