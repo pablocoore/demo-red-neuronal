@@ -32,7 +32,7 @@ data/<br/>
 ........cats/<br/>
 ............cat001.jpg<br/>
 ............cat002.jpg<br/>
-...............<br/>
-............<br/>
+<br/>
+
 # Para correr la red:<sbr/>
 python red-neuronal.py<br/>
